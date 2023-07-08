@@ -36,3 +36,6 @@ cd frontend
 npm install
 npm run dev
 ```
+
+4. Run laravel job
+   `php artisan schedule:run`
